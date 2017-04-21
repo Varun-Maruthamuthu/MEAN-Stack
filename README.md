@@ -1,0 +1,1 @@
+This is a mean stack application created during the course of my self learning activity.
